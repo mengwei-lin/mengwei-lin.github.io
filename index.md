@@ -10,5 +10,7 @@ title: ""
 &nbsp; Ph.D. Candidate <br>
 &nbsp; Public Economics, Urban Economics, Industrial Organization <br>
 
-&nbsp; - I leverage and develop quantitative methods from Spatial Economics and Industrial Organization literature to understand the bureaucracy and administrative processes in public organizations.
+  <br>
+  <br>
+&nbsp; - I leverage and develop quantitative methods from Spatial Economics and Industrial Organization literature to understand the bureaucracy and administrative processes in public organizations. <br>
 &nbsp; - My Ph.D. dissertation explores China’s land market mechanisms, which contains millions of transactions over ten years. In my job market paper, I investigate the impacts of local government competition on firms’ location decisions.
