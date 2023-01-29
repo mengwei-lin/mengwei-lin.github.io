@@ -17,3 +17,8 @@ layout: page
 ## UW-Madison
 
 - MATH217 Calculus with Algebra and Trigonometry II (2017 Fall)
+
+## Teaching Award
+
+- Cornell Center for Teaching Innovation (CTI) Graduate Fellowship (2021)
+- Dyson Graduate Teaching Assistant - Outstanding Service Award (2020)
