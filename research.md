@@ -6,10 +6,10 @@ layout: page
 
 ## Working Paper
 
-### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211) 
+### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211){:target="_blank"} 
 with Jeremy Foltz, Souleymane Soumahoro
 
-### [A Tax-Shaped Retail Landscape](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338974) 
+### [A Tax-Shaped Retail Landscape](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338974){:target="_blank"} 
 with Feng Chi, Limin Fang, Nathan Yang
 
 ## Work in Progress
