@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
+
+<p><img src="https://mengwei-lin.github.io/lin_photo.JPG" alt="me" align="left" style="width:200px;height:256px;padding:0px">
 
 I am Mengwei Lin, a fifth-year Ph.D. student in Applied Economics and Management at Cornell University. My research interests are Public Economics, Urban Economics, and Industrial Organization. I leverage and develop quantitative methods from Spatial Economics and Industrial Organization literature to understand the bureaucracy and administrative processes in public organizations.
 
