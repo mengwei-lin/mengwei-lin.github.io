@@ -20,5 +20,5 @@ layout: page
 
 ## Teaching Award
 
-- Cornell Center for Teaching Innovation (CTI) Graduate Fellowship (2021)
+- Cornell Center for Teaching Innovation Graduate Fellowship (2021)
 - Dyson Graduate Teaching Assistant - Outstanding Service Award (2020)
