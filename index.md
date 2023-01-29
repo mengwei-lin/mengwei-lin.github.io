@@ -9,6 +9,7 @@ title: ""
 &nbsp; Dyson School of Applied Economics and Management <br>
 &nbsp; Ph.D. Candidate <br>
 &nbsp; Public Economics, Urban Economics, Industrial Organization <br>
+</p>
 
 <br>
 <br>
@@ -17,7 +18,7 @@ title: ""
 <br>
 <br>
 <br>
-<br> 
+<p style="clear: both;"> </p> 
   
 ## About me
   
