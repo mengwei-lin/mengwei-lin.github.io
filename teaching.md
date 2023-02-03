@@ -12,7 +12,7 @@ layout: page
 - **AEM2420** Marketing for Dyson Majors, Spring 2021, Spring 2022
 - **AEM2400** Marketing for Non-majors, Fall 2020
 - **AEM7020/ECON6115** Game Theory (PhD core), Spring 2020
-- **AEM4110** Introduction to Econometrics, Fall 2019 [Note](https://www.dropbox.com/sh/5l1nq634t81b6j4/AABaPofG6Fat6jJezfecAnd-a?dl=0)
+- **AEM4110** Introduction to Econometrics, Fall 2019 [Note](https://www.dropbox.com/sh/5l1nq634t81b6j4/AABaPofG6Fat6jJezfecAnd-a?dl=0){:target="_blank"}
 
 ## UW-Madison
 
