@@ -11,7 +11,7 @@ with Jeremy Foltz, Souleymane Soumahoro
 
 ### [A Tax-Shaped Retail Landscape](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338974){:target="_blank"} 
 with Feng Chi, Limin Fang, Nathan Yang\
-\textcolor{gray}{redMedia: [The FinReg Blog](https://tinyurl.com/pfyfhr4v)}
+<span style="color: gray;">Media: [The FinReg Blog](https://tinyurl.com/pfyfhr4v)</span>
 
 ## Work in Progress
 
