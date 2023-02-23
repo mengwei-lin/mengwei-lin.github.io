@@ -9,9 +9,8 @@ layout: page
 ### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211){:target="_blank"} 
 with Jeremy Foltz, Souleymane Soumahoro
 
-### [A Tax-Shaped Retail Landscape](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338974){:target="_blank"} 
+### [A Tax-Shaped Retail Landscape](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338974){:target="_blank"} <span style="color: gray;">Media: [The FinReg Blog](https://tinyurl.com/pfyfhr4v)</span>
 with Feng Chi, Limin Fang, Nathan Yang\
-<span style="color: gray;">Media: [The FinReg Blog](https://tinyurl.com/pfyfhr4v)</span>
 
 ## Work in Progress
 
