@@ -15,6 +15,6 @@ with Feng Chi, Limin Fang, Nathan Yang
 
 ## Work in Progress
 
-- **Enforcement of Environmental Regulation: Local Governments' Behavior in China's Land Market** with Deyu Rao
+- **Local Governance and Environmental Regulation: Evidence from China's Urbanization** with Deyu Rao
 - **Money, Influence (and Death) in U.S. Politics** with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
-- **Local Government Competition and Firms' Location Decisions**
+- **Local Government Competition and Firms' Location Decisions: The Role of Leaders' Promotion Motives**
