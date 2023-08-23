@@ -19,6 +19,6 @@ title: ""
 <p style="clear: both;"> </p> 
   
 ## About me
-I am Mengwei Lin, a fifth-year Ph.D. student in Applied Economics and Management at Cornell University. My research interests are **Public Economics**, **Urban Economics**, and **Industrial Organization**. I leverage and develop quantitative methods from Spatial Economics and Industrial Organization literature to understand the bureaucracy and administrative processes in public organizations.
+I am a Ph.D. candidate in Applied Economics and Management at Cornell University. I am on the job market 2023-2024. Here is my [CV](MengweiLin_CV.pdf).
 
-My Ph.D. dissertation explores China’s land market mechanisms using millions of transactions over ten years. In my job market paper, I investigate the impacts of local government competition on firms’ location decisions.
+My research interests are **Public Economics**, **Political Economy**, and **Firm Behavior**. I conduct research to understand the relationship between government and business, with a focus on China, Africa, and the US.
