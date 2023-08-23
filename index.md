@@ -19,6 +19,6 @@ title: ""
 <p style="clear: both;"> </p> 
   
 ## About me
-I am a Ph.D. candidate in Applied Economics and Management at Cornell University. I am on the job market in the 2023-2024 academic year. Here is my [CV](MengweiLin_CV.pdf).
+I am a Ph.D. candidate in Applied Economics and Management at Cornell University. I am on the job market in the 2023-2024 academic year. Here is my [CV](lin_cv.pdf).
 
 My research interests are **Public Economics**, **Political Economy**, and **Firm Behavior**. I conduct research to understand the relationship between government and business, with a focus on China, Africa, and the US.
