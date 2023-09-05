@@ -20,5 +20,6 @@ layout: page
 
 ## Teaching Award
 
-- Cornell Center for Teaching Innovation Graduate Fellowship, 2021-2022 [Link](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows)
-- Dyson Graduate Teaching Assistant - Outstanding Service Award, 2020 [Link](https://business.cornell.edu/hub/2020/06/22/dyson-2020-award-recipients/)
+- Cornell Laidlaw Scholars Graduate Mentor Fellowship, 2022
+- Cornell Center for Teaching Innovation Graduate Fellowship, 2021
+- Dyson Graduate Teaching Assistant - Outstanding Service Award, 2020 
