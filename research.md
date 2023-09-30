@@ -17,4 +17,4 @@ with Feng Chi, Limin Fang, Nathan Yang
 
 - **Local Governance and Environmental Regulation: Evidence from China's Urbanization** with Deyu Rao
 - **Money, Influence (and Death) in U.S. Politics** with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
-- **Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China**
+- **Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China** (Job Market Paper)
