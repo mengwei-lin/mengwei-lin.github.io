@@ -6,7 +6,7 @@ layout: page
 
 ## Working Paper
 
-### <span style="color:blue">Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China (Job Market Paper)</span>
+### <span style="color:blue">*Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China (Job Market Paper)*</span>
 
 ### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211){:target="_blank"} 
 with Jeremy Foltz, Souleymane Soumahoro
