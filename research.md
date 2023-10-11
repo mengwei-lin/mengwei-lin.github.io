@@ -6,6 +6,8 @@ layout: page
 
 ## Working Paper
 
+### Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China** (Job Market Paper)
+
 ### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211){:target="_blank"} 
 with Jeremy Foltz, Souleymane Soumahoro
 
@@ -15,6 +17,6 @@ with Feng Chi, Limin Fang, Nathan Yang
 
 ## Work in Progress
 
-- **Local Governance and Environmental Regulation: Evidence from China's Urbanization** with Deyu Rao
 - **Money, Influence (and Death) in U.S. Politics** with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
-- **Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China** (Job Market Paper)
+- **Count on a Leader? Evidence from Government-Business Contracts and Firm Performance** with Jaya Wen
+- **Local Governance and Environmental Regulation: Evidence from China's Urbanization** with Deyu Rao
