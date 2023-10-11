@@ -6,7 +6,7 @@ layout: page
 
 ## Working Paper
 
-### [Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China]{https://www.dropbox.com/scl/fi/tz1hhp8f32162wqunzhdq/lin_abstract.pdf?rlkey=atlxzjt71qok44hgb9x4f9tpw&dl=0}{:target="_blank"} (Job Market Paper)
+### [Local Policies and Firm Location: The Role of Leaders' Promotion Motives in China](https://www.dropbox.com/scl/fi/tz1hhp8f32162wqunzhdq/lin_abstract.pdf?rlkey=atlxzjt71qok44hgb9x4f9tpw&dl=0){:target="_blank"} (Job Market Paper)
 
 ### [Peace and Petty Corruption: Evidence from Trucking in Côte d'Ivoire](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4292211){:target="_blank"} 
 with Jeremy Foltz, Souleymane Soumahoro
