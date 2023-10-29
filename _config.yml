@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ml2622@cornell.edu"}
   - {title: Github, icon: github, url: "https://github.com/mengwei-lin"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/mengwei_lin"}
-  - {title: Unsplash, icon: unsplash, url: "https://unsplash.com/@mengwei_lin"}
+  - {title: Unsplash, icon: camera, url: "https://unsplash.com/@mengwei_lin"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
