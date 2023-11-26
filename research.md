@@ -19,4 +19,4 @@ with Feng Chi, Limin Fang, Nathan Yang
 
 - **Money, Influence (and Death) in U.S. Politics** with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
 - **Count on a Leader? Evidence from Government-Business Contracts and Firm Performance** with Jaya Wen
-- **Local Governance and Environmental Regulation: Evidence from China's Urbanization** with Deyu Rao
+- **Local Governance and Environmental Regulation in China** with Deyu Rao
