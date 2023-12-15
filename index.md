@@ -23,8 +23,8 @@ I am a Ph.D. candidate in Applied Economics and Management at [Cornell Universit
 
 My research interests are **Public Economics**, **Political Economy**, and **Firm Behavior**. I conduct research to understand the relationship between government and business, with a focus on China, Africa, and the US.
 
-I am on the job market in the 2023-2024 academic year. 
+I am on the job market in the 2023-2024 academic year.
 
 Email: ml2622(at)cornell.edu.
 
-Here is my [CV](lin_cv.pdf). 
+Here is my [CV](lin_cv.pdf).
