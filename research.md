@@ -15,8 +15,10 @@ with Jeremy Foltz, Souleymane Soumahoro
 with Feng Chi, Limin Fang, Nathan Yang
 - <span style="color: gray;">Media: [The FinReg Blog](https://tinyurl.com/pfyfhr4v){:target="_blank"}</span>
 
+### [Unobserved Contributions and Political Influence: Evidence from the Death of Top Donors](https://www.nber.org/papers/w32649){:target="_blank"} 
+with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
+
 ## Work in Progress
 
-- **Money, Influence (and Death) in U.S. Politics** with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
 - **Count on a Leader? Evidence from Government-Business Contracts and Firm Performance** with Jaya Wen
 - **Local Governance and Environmental Regulation in China** with Deyu Rao
