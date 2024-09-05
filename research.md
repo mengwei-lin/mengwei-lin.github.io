@@ -20,5 +20,4 @@ with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
 
 ## Work in Progress
 
-- **Count on a Leader? Evidence from Government-Business Contracts and Firm Performance** with Jaya Wen
 - **Local Governance and Environmental Regulation in China** with Deyu Rao
