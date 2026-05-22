@@ -17,6 +17,7 @@ with Feng Chi, Limin Fang, Nathan Yang
 
 ### [Unobserved Contributions and Political Influence: Evidence from the Death of Top Donors](https://www.nber.org/papers/w32649){:target="_blank"} 
 with Marco Battaglini, Valerio Leone Sciabolazza, Eleonora Patacchini
+- <span style="color: gray;">Media: [ProMarket]([https://tinyurl.com/pfyfhr4v](https://www.promarket.org/2026/05/08/large-donors-networks-matter-more-than-their-dollar-contributions/)){:target="_blank"}</span>
 
 ## Work in Progress
 
